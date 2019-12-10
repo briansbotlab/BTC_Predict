@@ -5,7 +5,7 @@
 * 請先安裝好所需要的python套件: python-binance , pandas , fbprophet。
 * 環境為Python3
 
-> > step 1: 編輯 get_csv.py ， 輸入你的 api_key 及 api_secret 。<br/>
+> > step 1: 編輯 get_csv.py ， 輸入你的 api_key 及 api_secret (api_key 及 api_secret 需要先去幣安進行註冊才能獲得)。<br/>
 > > step 2: 執行 get_csv.py ， 會得到 binance_BTCUSDT_data.csv 。 <br/>
 > > step 3: 執行 model.py ， 可以得到預測的結果以圖像顯示以及產生 forecast_BTCUSDT_data.csv 。 <br/>
 
